@@ -18,7 +18,7 @@ hecho llegar una exportación de datos del año 2020 y hasta finales de agosto d
 analizar algunas preguntas que querrían resolver en formato gráfico mediante informes o
 dashboards.
 
-**El cliente pone a nuestra disposición la siguiente arquitectura tecnológica:
+**El cliente pone a nuestra disposición la siguiente arquitectura tecnológica:**
 
 • Base de datos MySQL
 
@@ -27,7 +27,7 @@ dashboards.
 • Frontend analítico Microsoft PowerBI o Tableau Public
 
 
-**A modo de resumen, nuestro cliente quiere saber:
+**A modo de resumen, nuestro cliente quiere saber:**
 
 • La evolución del volumen de tickets general y diferenciado por incidencias y peticiones.
 
@@ -46,7 +46,7 @@ cumplen los SLAs
 • Posibilidad de filtrar por prioridad, por tipo de ticket y por servicio.
 
 
-**Nuestro cliente nos indica que le gustaría disponer de la siguiente documentación del proyecto:
+**Nuestro cliente nos indica que le gustaría disponer de la siguiente documentación del proyecto:**
 
 • Esquema de base de datos
 
