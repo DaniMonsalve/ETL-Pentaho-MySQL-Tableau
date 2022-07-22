@@ -6,6 +6,7 @@ Es nuestra labor como especialistas en el análisis el realizar el diseño de ar
 sistema de análisis, modelado de base de datos, carga de la misma y explotación de los datos.
 
 **Requerimientos del cliente**
+
 Nuestro cliente es un departamento de una multinacional del sector de las telecomunicaciones que
 gestiona las peticiones e incidencias que se producen en una serie de servicios y entornos que la
 compañía da a sus empleados y clientes.
@@ -16,6 +17,7 @@ analizar algunas preguntas que querrían resolver en formato gráfico mediante i
 dashboards.
 
 El cliente pone a nuestra disposición la siguiente arquitectura tecnológica:
+
 • Base de datos MySQL
 • ETL Pentaho Data Integration
 • Frontend analítico Microsoft PowerBI o Tableau Public
