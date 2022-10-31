@@ -111,6 +111,6 @@ cliente o no.
 
   o Dentro del objetivo de servicio: ticket resuelto adecuadamente
 
-  o Objetivos de servicio incumplidos: ticket resuelto tarde
+  o Objetivos de servicio incumplidos: ticket resuelto tarde.
 
 • Duración días. Número de días que se ha tardado en resolver el ticket
